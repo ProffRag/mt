@@ -71,7 +71,7 @@ restart.visible = false;
 
 function draw() {
   
-  background("black");
+  background("white");
 
   
 
